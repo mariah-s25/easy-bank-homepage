@@ -98,8 +98,9 @@ right: 0;
 .section12 .image2 {
 width:100%;
 position: absolute;
-top: 30px;
+top:0;
 right: 30px;
+margin-top:-50px;
 }
 
 .section2{ background-color:hsl(220, 16%, 96%); padding:100px; margin-top:0;}
